@@ -52,3 +52,9 @@ Social networking applications
 Conclusion
 
 The Real-Time Chat Application demonstrates how Socket.IO can be used to create instant communication systems on the web. It provides hands-on experience with modern web technologies, client-server communication, and real-time event handling, making it an excellent project for students, internships, and portfolio development.
+
+
+**OUTPUT**
+<img width="1439" height="894" alt="Image" src="https://github.com/user-attachments/assets/be1e967c-dd3d-449d-a6f8-e5dd35506893" />
+
+<img width="1319" height="932" alt="Image" src="https://github.com/user-attachments/assets/bc6ed6e7-2f47-4407-bfb0-b742f0e77667" />
